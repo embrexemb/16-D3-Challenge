@@ -1,0 +1,4 @@
+https://buitron.github.io/data_journalism/  - Good Example
+https://towardsdatascience.com/data-journalism/home
+http://farhadomidvar.com/D3-Data-Journalism/
+https://github-dotcom.gateway.web.tr/mansimajithia/D3-Data-Journalism-and-Visualization
